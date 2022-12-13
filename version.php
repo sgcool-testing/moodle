@@ -17,6 +17,10 @@
 
 /**
  * MOODLE VERSION INFORMATION
+ 
+ 
+ 
+ 
  *
  * This file defines the current version of the core Moodle code being used.
  * This is compared against the values stored in the database to determine
